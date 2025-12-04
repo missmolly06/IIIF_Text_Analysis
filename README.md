@@ -10,10 +10,10 @@ Libraries are increasing digitizing their archival collections, but it takes som
 
 **Steps used in this workflow:**
 
-1. Mass-download JPEG images from IIIF-based digital libraries (PYTHON)
-2. Mass-convert JPEGs to PDFs (PYTHON)
-3. Mass-render PDFs as text-searchable (OCR the PDFs) (BASH)
-4. Mass-convert PDFs to .txt files (BASH)
+1. Download JPEG images from IIIF-based digital libraries (PYTHON)
+2. Convert JPEGs to PDFs (PYTHON)
+3. Render PDFs as text-searchable (OCR the PDFs) (BASH)
+4. Convert PDFs to .txt files (BASH)
 
 **Skill development:** 
 

@@ -24,3 +24,4 @@ Libraries are increasing digitizing their archival collections, but it takes som
 
 1. Make the workflow more automatable/iterative (e.g., use query strings to automate the processing of multiple manifests in a row without having to copy-paste manifests
 2. Clean up file naming aspects of the workflow to reflect best practices in data management
+3. There are some areas where I resorted to Chat-GPT to help me create code because the more simple code I learned from other tutorials did not work. I'm interested in contintuing to troubleshoot that simpler code to get it to work.

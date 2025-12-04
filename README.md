@@ -18,7 +18,7 @@ Libraries are increasing digitizing their archival collections, but it takes som
 **Skill development:** 
 
 1. Increase comfort using (and differentiating between) python and bash programming commands (e.g., download files from the internet, manipulate files on your computer)
-2. Learn how to package command line code in multiple languagesinto a jupyter notebook-based tutorial
+2. Learn how to package command line code in multiple languages into a jupyter notebook-based tutorial
 
 **Future Goals:**
 

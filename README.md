@@ -17,7 +17,8 @@ Libraries are increasing digitizing their archival collections, but it takes som
 
 **Skill development:** 
 
-Increase comfort using the command line (e.g., download files from the internet, manipulate files on your computer)
+1. Increase comfort using (and differentiating between) python and bash programming commands (e.g., download files from the internet, manipulate files on your computer)
+2. Learn how to package command line code in multiple languagesinto a jupyter notebook-based tutorial
 
 **Future Goals:**
 
